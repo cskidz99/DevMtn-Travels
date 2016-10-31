@@ -10,6 +10,7 @@
 }
 
 .booked-main-container h1 {
+    margin-top: 2rem;
     font-size: 3rem;
     margin-bottom: 2rem;
 
@@ -25,4 +26,9 @@
     background: #4BACC1;
     font-size: 18px;
     color: #FFFFFF;
+}
+
+.booked-city {
+  color: #12F0F0;
+  font-size: 4rem;
 }
